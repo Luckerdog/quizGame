@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Lame Quiz</string>
+    <string name="scoreText">Score:</string>
+    <string name="title_text">The Geo Quiz</string>
+    <string name="question_1">What is the capital of Calfiornia?</string>
+    <string name="question_2">What is the capital of Ecuador?</string>
+    <string name="question_3">Which city has the biggest population?</string>
+    <string name="question_4">Where are BMW\'s made?</string>
+    <string name="question_5">What country has the least amount of rainfall?</string>
+
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="random_button">Random</string>
+
+    <string name="first_button">A. </string>
+    <string name="second_button">B. </string>
+    <string name="third_button">C. </string>
+    <string name="fourth_button">D. </string>
+
+
+    <string name="Question1A">Los Angeles</string>
+    <string name="Question1B">Fresno</string>
+    <string name="Question1C">Clovis</string>
+    <string name="Question1D">Sacramento</string>
+    <string name="Hint1_toast">RANDOM</string>
+
+    <string name="Question2A">Shell</string>
+    <string name="Question2B">Quito</string>
+    <string name="Question2C">Rosarito</string>
+    <string name="Question2D">Burrito</string>
+    <string name="Hint2_toast">RANDOM</string>
+
+
+    <string name="Question3A">London</string>
+    <string name="Question3B">Hamburg</string>
+    <string name="Question3C">Fresno</string>
+    <string name="Question3D">Alabama</string>
+    <string name="Hint3_toast">RANDOM</string>
+
+    <string name="Question4A">China</string>
+    <string name="Question4B">Japan</string>
+    <string name="Question4C">Germany</string>
+    <string name="Question4D">England</string>
+    <string name="Hint4_toast">RANDOM</string>
+
+    <string name="Question5A">Ghana</string>
+    <string name="Question5B">Chad</string>
+    <string name="Question5C">Egypt</string>
+    <string name="Question5D">U.S.A</string>
+    <string name="Hint5_toast">RANDOM</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="blank"></string>
+</resources>
